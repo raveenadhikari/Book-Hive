@@ -36,3 +36,10 @@ Follow the steps below to get the project running locally.
 ```bash
 git clone https://github.com/your-username/bookhive.git
 cd bookhive
+## 🚀 Getting Started
+
+### 2. Install Dependencies
+
+```bash
+npm install
+
