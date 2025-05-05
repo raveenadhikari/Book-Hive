@@ -1,50 +1,38 @@
-# Welcome to your Expo app 👋
+# 📚 BookHive – A Social Book App for Sri Lankan Readers 🇱🇰
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to **BookHive**, a community-driven mobile app designed especially for **Sri Lankan book lovers**. Much like Goodreads, BookHive allows users to explore, rate, and review books — **with the added ability to add new books** if they're not already in the system.
 
-## Get started
+Built with **React Native** and powered by **Firebase**, this app provides a smooth and interactive mobile experience for discovering and discussing books.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🌟 Features
 
-2. Start the app
+- 📖 **Add New Books** – Can't find a book? Add it to the platform!
+- ⭐ **Rate & Review** – Share your thoughts and rate books you’ve read.
+- 💬 **Discussion Forum** – Join conversations around books and authors.
+- 🗂️ **Search by Category** – Easily explore books by genres or categories.
+- 🔍 **Smart Search** – Find books quickly by title or author.
+- 🇱🇰 **Sri Lankan Focus** – Curated for local readers and content.
 
-   ```bash
-    npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🚀 Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **Frontend**: [React Native](https://reactnative.dev/)
+- **Backend/Database**: [Firebase](https://firebase.google.com/)
+- **Framework**: [Expo](https://expo.dev)
+- **Authentication**: Firebase Auth
+- **Routing**: File-based routing via [Expo Router](https://docs.expo.dev/router/introduction)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🛠️ Getting Started
 
-When you're ready, run:
+Follow the steps below to get the project running locally.
+
+### 1. Clone the Repository
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/your-username/bookhive.git
+cd bookhive
